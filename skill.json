@@ -1,0 +1,17 @@
+{
+  "name": "genpark-hamming-7-4-syndrome-decoder-skill",
+  "version": "1.0.0",
+  "description": "Hamming [7, 4] linear block code engine computing parity generator matrices, syndrome check vectors, and single-bit error corrections.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hamming-code",
+    "syndrome-decoding",
+    "linear-block-codes",
+    "parity-check",
+    "ecc"
+  ],
+  "dependencies": []
+}
